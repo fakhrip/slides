@@ -49,10 +49,11 @@ class: text-white
 
 <div class="k-slide">
 <div class="k-text-panel">
-<div class="k-eyebrow">the real journey</div>
 <h1 class="k-title">A blinking LED is not a business.</h1>
 <p class="k-body">The first prototype proves that something <em>can</em> work. The product journey proves that it can survive customers, manufacturing, support, and sales.</p>
 
+<br>
+<br>
 <div class="k-grid2">
 <div class="k-card">
 <strong>Prototype</strong>
@@ -91,28 +92,8 @@ class: text-white
 <div class="k-eyebrow">disclaimer</div>
 <h1 class="k-title">This is about building a business, not pure research.</h1>
 <p class="k-body">The question is not only “Can we build it?” The bigger question is “Can this solve a painful problem, reliably, at a price someone accepts?”</p>
-
-<div class="k-grid2">
-<div class="k-card">
-<strong>Included</strong>
-<span>Product thinking, customer discovery, MVPs, PMF, sales, and scaling risk.</span>
-</div>
-
-<div class="k-card">
-<strong>Not the focus</strong>
-<span>Publication-first work, lab-only exploration, or novelty without a user path.</span>
-</div>
-
-<div class="k-card">
-<strong>Still important</strong>
-<span>Research matters when it closes gaps the business cannot ignore.</span>
-</div>
-
-<div class="k-card">
-<strong>Mindset</strong>
-<span>Think customer, economics, operations, and support—not just clever engineering.</span>
-</div>
-</div>
+<br>
+<p class="k-body">Business != Research</p>
 </div>
 
 <div class="k-media-panel k-left">
@@ -130,12 +111,12 @@ class: text-white
 <div class="k-eyebrow">from demo to product</div>
 <h1 class="k-title">Arduino is a great start. It is usually not enough.</h1>
 <p class="k-body">Dev boards are useful for fast learning and PoCs. Production adds constraints that prototypes often hide.</p>
-
+<br>
 <ul class="k-bullets">
-<li><strong>Electrical reality:</strong> power, thermal behavior, signal integrity, EMI, and EMC.</li>
-<li><strong>Device reality:</strong> boot, update, rollback, diagnostics, and recovery.</li>
-<li><strong>Manufacturing reality:</strong> BOM, assembly time, test jigs, enclosure, and yield.</li>
-<li><strong>Market reality:</strong> support, warranty, safety, certification, and lifecycle cost.</li>
+<li><strong>Electrical reality:</strong> <br>Power, thermal behavior, signal integrity, EMI, and EMC.</li>
+<li><strong>Device reality:</strong> <br>Boot, update, rollback, diagnostics, and recovery.</li>
+<li><strong>Manufacturing reality:</strong> <br>BOM, assembly time, test jigs, enclosure, and yield.</li>
+<li><strong>Market reality:</strong> <br>Support, warranty, safety, certification, and lifecycle cost.</li>
 </ul>
 </div>
 
@@ -151,16 +132,15 @@ class: text-white
 
 <div class="k-slide">
 <div class="k-text-panel k-right">
-<div class="k-eyebrow">go deeper</div>
-<h1 class="k-title">Embedded products are built on layers of deep expertise.</h1>
+<h1 class="k-title">Dive deeper.</h1>
 <p class="k-body">Expertise can sit at the lowest level, hardware, firmware, system, or product level. In embedded systems, every layer leaks eventually.</p>
 
 <ul class="k-bullets">
-<li><strong>Lowest:</strong> silicon, FPGA, chip design, timing, and verification.</li>
-<li><strong>Hardware:</strong> electronics, PCB, RF, power, sensors, enclosure, CNC, DFM, and DFT.</li>
-<li><strong>Firmware:</strong> bootloaders, drivers, RTOS, protocol stacks, OTA, and diagnostics.</li>
-<li><strong>System:</strong> kernel, OS, networking, security, observability, and fleet operations.</li>
-<li><strong>Product:</strong> workflow, onboarding, pricing, support, and sales.</li>
+<li><strong>Lowest:</strong> <br>Silicon, FPGA, chip design, timing, and verification.</li>
+<li><strong>Hardware:</strong> <br>Electronics, PCB, RF, power, sensors, enclosure, CNC, DFM, and DFT.</li>
+<li><strong>Firmware:</strong> <br>Bootloaders, drivers, RTOS, protocol stacks, OTA, and diagnostics.</li>
+<li><strong>System:</strong> <br>Kernel, OS, networking, security, observability, and fleet operations.</li>
+<li><strong>Product:</strong> <br>Workflow, onboarding, pricing, support, and sales.</li>
 </ul>
 
 <p class="k-term">FPGA = Field-Programmable Gate Array · PCB = Printed Circuit Board · CNC = Computer Numerical Control · DFM/DFT = Design for Manufacturing / Design for Test · RTOS = Real-Time Operating System · OTA = Over-the-Air update.</p>
@@ -179,9 +159,11 @@ class: text-white
 <div class="k-slide">
 <div class="k-text-panel">
 <div class="k-eyebrow">customer first</div>
-<h1 class="k-title">Start with customer pain—not components.</h1>
+<h1 class="k-title">Start with customer pain, not components.</h1>
 <p class="k-body">Customers do not care how elegant the board is. They care whether the product makes an important problem cheaper, faster, safer, easier, or measurable.</p>
+<p class="k-body">Even a single PHP script can make billions of dollars if it solves the right problem.</p>
 
+<br>
 <div class="k-grid2">
 <div class="k-card">
 <strong>Who hurts?</strong>
@@ -218,15 +200,16 @@ class: text-white
 <div class="k-slide">
 <div class="k-text-panel k-right">
 <div class="k-eyebrow">why research matters</div>
-<h1 class="k-title">Research fills gaps the business cannot afford to ignore.</h1>
+<h1 class="k-title">Research fills the business gaps.</h1>
 <p class="k-body">Good research turns unknowns into evidence before technical, market, manufacturing, and compliance risks become expensive.</p>
 
+<br>
 <ul class="k-bullets">
-<li><strong>Market research:</strong> is the pain real, urgent, and budget-worthy?</li>
-<li><strong>Customer interviews:</strong> what does “good enough” mean?</li>
-<li><strong>Technical validation:</strong> will the design work outside the lab?</li>
-<li><strong>Compliance review:</strong> what emissions or safety rules apply?</li>
-<li><strong>Manufacturing research:</strong> can this be built repeatedly at target cost?</li>
+<li><strong>Market research:</strong> <br>is the pain real, urgent, and budget-worthy?</li>
+<li><strong>Customer interviews:</strong> <br>what does “good enough” mean?</li>
+<li><strong>Technical validation:</strong> <br>will the design work outside the lab?</li>
+<li><strong>Compliance review:</strong> <br>what emissions or safety rules apply?</li>
+<li><strong>Manufacturing research:</strong> <br>can this be built repeatedly at target cost?</li>
 </ul>
 </div>
 
@@ -242,9 +225,12 @@ class: text-white
 
 <div class="k-slide">
 <div class="k-text-panel">
-<div class="k-eyebrow">core product journey</div>
-<h1 class="k-title">PoC, MVP, PMF, and Sales answer different questions.</h1>
+<h1 class="k-title">The Buzzwords.</h1>
+<p class="k-body">PoC, MVP, PMF, and Sales answer different questions.</p>
 
+<br>
+<br>
+<br>
 <div class="k-grid2">
 <div class="k-step">
 <strong>PoC</strong>
@@ -267,6 +253,9 @@ class: text-white
 </div>
 </div>
 
+<br>
+<br>
+<br>
 <p class="k-term">PoC = Proof of Concept · MVP = Minimum Viable Product · PMF = Product-Market Fit.</p>
 </div>
 
@@ -282,7 +271,7 @@ class: text-white
 
 <div class="k-slide">
 <div class="k-text-panel k-right">
-<div class="k-eyebrow">day-to-day work</div>
+<div class="k-eyebrow">the 9-to-5</div>
 <h1 class="k-title">What engineers actually do across the journey.</h1>
 
 <div class="k-grid2">
@@ -317,6 +306,7 @@ class: text-white
 </div>
 </div>
 
+<br>
 <p class="k-term">BOM = Bill of Materials · PCB = Printed Circuit Board · OTA = Over-the-Air update.</p>
 </div>
 
@@ -332,7 +322,6 @@ class: text-white
 
 <div class="k-slide">
 <div class="k-text-panel">
-<div class="k-eyebrow">real example journey</div>
 <h1 class="k-title">Example: smart sensor / IoT device.</h1>
 <p class="k-body">The opportunity is not “a cool sensor.” The opportunity is earlier detection, lower downtime, and better planning.</p>
 
@@ -363,6 +352,7 @@ class: text-white
 </div>
 </div>
 
+<br>
 <p class="k-term">IoT = Internet of Things.</p>
 </div>
 
