@@ -487,3 +487,46 @@ The real product is everything after that: customer pain, deep engineering, vali
 </div>
 </div>
 </div>
+
+---
+layout: default
+class: text-white
+---
+
+<div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center; padding:3.2rem 4rem; overflow:hidden;">
+<a href="https://www.youtube.com/watch?v=TYcfC-adRvA" target="_blank" rel="noopener noreferrer" style="position:relative; display:block; width:min(68rem, calc(100vw - 8rem)); height:min(34rem, calc(100vh - 7rem)); border-radius:1.8rem; border:1px solid rgba(255,255,255,.12); overflow:hidden; background:rgba(255,255,255,.03); box-shadow:0 28px 90px rgba(0,0,0,.34); text-decoration:none;">
+<img src="https://img.youtube.com/vi/TYcfC-adRvA/maxresdefault.jpg" alt="Sample showcase video thumbnail" style="width:100%; height:100%; object-fit:cover; object-position:center; display:block;" />
+<div style="position:absolute; inset:0; background:linear-gradient(180deg, rgba(0,0,0,.04) 0%, rgba(0,0,0,.12) 55%, rgba(0,0,0,.65) 100%);"></div>
+<div style="position:absolute; left:50%; top:50%; transform:translate(-50%, -50%); width:5rem; height:5rem; display:flex; align-items:center; justify-content:center; border-radius:999px; border:1px solid rgba(255,255,255,.24); background:rgba(8,10,13,.78); box-shadow:0 18px 50px rgba(0,0,0,.42); backdrop-filter:blur(12px);">
+<span style="margin-left:.22rem; color:#f5f7fa; font-size:2rem; line-height:1;">▶</span>
+</div>
+<div style="position:absolute; left:1.25rem; right:1.25rem; bottom:1.25rem; display:flex; align-items:center; justify-content:space-between; gap:1rem; padding:.95rem 1rem; border-radius:1.1rem; border:1px solid rgba(255,255,255,.1); background:rgba(8,10,13,.72); box-shadow:0 18px 50px rgba(0,0,0,.28); backdrop-filter:blur(14px);">
+<div style="min-width:0;">
+<div style="margin-top:.28rem; color:#f5f7fa; font-size:.8rem; line-height:1.2; font-weight:800;">Real sample process (yourTMJ Pen)</div>
+<div style="margin-top:.22rem; color:#b8c0cc; font-size:.72rem; line-height:1.35; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;">youtube.com/watch?v=TYcfC-adRvA</div>
+</div>
+<div style="display:inline-flex; align-items:center; gap:.5rem; flex-shrink:0; padding:.7rem .95rem; border-radius:.85rem; border:1px solid rgba(255,184,74,.26); background:rgba(255,184,74,.09); color:#ffbf5d; font-size:.72rem; font-weight:800;">
+<span style="font-size:.95rem;">▶</span>
+<span>Open</span>
+</div>
+</div>
+</a>
+</div>
+
+---
+layout: center
+class: text-white
+---
+
+<div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center; padding:3rem 4rem; overflow:hidden;">
+<div style="width:min(25rem); padding:2rem 2.2rem; border-radius:1.8rem; border:1px solid rgba(255,255,255,.12); background:rgba(8,10,13,.82); box-shadow:0 28px 90px rgba(0,0,0,.34); backdrop-filter:blur(18px);">
+<div style="text-align:center; color:#62f5ee; text-transform:uppercase; letter-spacing:.22em; font-size:.68rem; font-weight:800;">Contact me</div>
+<div style="display:grid; grid-template-columns:repeat(2, minmax(0, 1fr)); gap:.7rem; margin-top:1.35rem;">
+<a href="mailto:fakhrip@protonmail.com" style="display:block; padding:.8rem .9rem; border-radius:.9rem; border:1px solid rgba(255,255,255,.1); background:rgba(16,19,23,.72); color:#f5f7fa; text-decoration:none;"><strong style="display:block; font-size:.72rem;">Email</strong><span style="display:block; margin-top:.2rem; color:#b8c0cc; font-size:.66rem;">fakhrip@protonmail.com</span></a>
+<a href="https://fakhrip.github.io" target="_blank" rel="noopener noreferrer" style="display:block; padding:.8rem .9rem; border-radius:.9rem; border:1px solid rgba(255,255,255,.1); background:rgba(16,19,23,.72); color:#f5f7fa; text-decoration:none;"><strong style="display:block; font-size:.72rem;">Website</strong><span style="display:block; margin-top:.2rem; color:#b8c0cc; font-size:.66rem;">fakhrip.github.io</span></a>
+<a href="https://www.instagram.com/fakhri_ptr/" target="_blank" rel="noopener noreferrer" style="display:block; padding:.8rem .9rem; border-radius:.9rem; border:1px solid rgba(255,255,255,.1); background:rgba(16,19,23,.72); color:#f5f7fa; text-decoration:none;"><strong style="display:block; font-size:.72rem;">Instagram</strong><span style="display:block; margin-top:.2rem; color:#b8c0cc; font-size:.66rem;">@fakhri_ptr</span></a>
+<a href="https://youtube.com/@fakhri_ptr" target="_blank" rel="noopener noreferrer" style="display:block; padding:.8rem .9rem; border-radius:.9rem; border:1px solid rgba(255,255,255,.1); background:rgba(16,19,23,.72); color:#f5f7fa; text-decoration:none;"><strong style="display:block; font-size:.72rem;">YouTube</strong><span style="display:block; margin-top:.2rem; color:#b8c0cc; font-size:.66rem;">@fakhri_ptr</span></a>
+<div style="grid-column:1 / -1; padding:.8rem .9rem; border-radius:.9rem; border:1px solid rgba(255,184,74,.24); background:rgba(255,184,74,.07);"><strong style="display:block; color:#ffbf5d; font-size:.72rem;">Discord</strong><span style="display:block; margin-top:.2rem; color:#c6cbd2; font-size:.66rem;">f4r4w4y</span></div>
+</div>
+</div>
+</div>

@@ -75,6 +75,7 @@
 
   width: 43%;
   max-height: 90%;
+  min-height: 80%;
   padding: 1.3rem 1.4rem;
 
   overflow: hidden;
